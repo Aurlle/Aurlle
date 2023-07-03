@@ -36,9 +36,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aurlle&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
