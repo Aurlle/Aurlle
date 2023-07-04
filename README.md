@@ -3,16 +3,16 @@
 ###
 
 
+![giphy (1)](https://github.com/Aurlle/Aurlle/assets/125580798/62b80dae-2df8-403d-9b65-5564098301bb)
 
-![giphy](https://github.com/Aurlle/Aurlle/assets/125580798/6c481ec4-8110-4b6f-a905-e9411f25f04f)
 
 ###
-* Hobby 1
-  * Nested Hobby 1
-    * Sub-nested Hobby 1
-* Hobby 2
-* Hobby 3
-
+* ART
+  * CRAFTING
+    * SEWING
+    * PAINTING
+* GAMING
+  
   ###
 
 <p align="left">## Languages I use ##</p>
@@ -60,6 +60,9 @@
 </div>
 
 ###
+
+![giphy](https://github.com/Aurlle/Aurlle/assets/125580798/6c481ec4-8110-4b6f-a905-e9411f25f04f)
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Aurlle/count.svg?"  />
