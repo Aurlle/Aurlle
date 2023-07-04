@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aurélie and I'm a student developer from Belgium</h2>
+<h2 align="left">Hello 👋! My name is Aurélie and I'm a student developer from Belgium</h2>
 
 ###
 
@@ -48,9 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aurlle/Aurlle/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="left">## Social Media  ##</p>
 
