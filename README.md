@@ -1,7 +1,7 @@
 <h2 align="left">Hello 👋! My name is Aurélie and I'm a student developer from Belgium</h2>
 
 ###
-<div align="center">
+<div align="right">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
