@@ -2,8 +2,9 @@
 
 ###
 
-  <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
+
+![giphy](https://github.com/Aurlle/Aurlle/assets/125580798/6c481ec4-8110-4b6f-a905-e9411f25f04f)
 
 ###
 * Hobby 1
