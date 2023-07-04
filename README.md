@@ -1,7 +1,9 @@
 <h2 align="left">Hello 👋! My name is Aurélie and I'm a student developer from Belgium</h2>
 
 ###
-
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 * Hobby 1
@@ -11,15 +13,9 @@
 * Hobby 3
 
   ###
-<h2 align="left">Hello👋! My name is Aurélie and I'm a student developer from Belgium</h2>
-
-###
 
 <p align="left">## Languages I use ##</p>
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 ###
 
 <div align="left">
