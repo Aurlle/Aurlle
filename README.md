@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Aurélie and I'm a student developer from Belgium</h2>
+<h2 align="left">Hello 👋! My name is Aurélie and I'm a junior developer from Belgium</h2>
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -13,7 +13,19 @@
   * CRAFTING
     * SEWING
     * PAINTING
-* GAMING
+* TECHNOLOGY
+   * COMPUTER BUILDING
+   * GAMING
+   * 3D PRINTING
+   * VR
+
+ * SPORT
+   * CLINBING
+   * DANCE
+   * FITNESS
+   * YOGA
+   
+
   
   ###
 ------------------------------------------------------------------------------------------------------------------------
